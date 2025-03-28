@@ -1,5 +1,5 @@
 # Pattern-Recognition-and-Generalization-using-CNN
-University project under the course Machine Learning (BITS F64) at BITS Pilani KK Birla Goa campus.
+University project under the course Machine Learning (BITS F464) at BITS Pilani KK Birla Goa campus.
 
 Submitted by: Arul Bhardwaj(2022A7PS1111G), Kushagra Tanwar(2022A3PS0349G), Naman Bhatia(2022A7PS0559G)
 
