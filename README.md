@@ -1,8 +1,6 @@
 # Pattern-Recognition-and-Generalization-using-CNN
 University project under the course Machine Learning (BITS F464) at BITS Pilani KK Birla Goa campus.
 
-Submitted by: Arul Bhardwaj(2022A7PS1111G), Kushagra Tanwar(2022A3PS0349G), Naman Bhatia(2022A7PS0559G)
-
 1.1 Problem Statement : Pattern Recognization and Generalization on ARC Dataset using Convolutional Neural Networks
 
 1.2 Hypothesis : Increasing the number of layers in a convolutional neural network can lead to higher training errors in small and complex datasets due to over-parameterization or overfitting regularization effects.
